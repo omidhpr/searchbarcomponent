@@ -1,2 +1,2 @@
 #searchbar component 
-My first searchbat component for react
+My first searchbar component for react
